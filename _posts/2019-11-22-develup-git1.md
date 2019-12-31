@@ -1,7 +1,7 @@
 ---
 title: "[Develup] git & github 입문 - 1. 소스트리 사용해보기"
 date: 2019-11-22 17:37:28 -0400
-categories: github git
+categories: github
 ---
 
 ## git이란?
